@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T06:56:17.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="17.1.3" etag="w_hwL3Vw1_se3mzxIz7M" type="github"><diagram id="Vd3lbosM9SisEXLFlKM5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-25T07:03:16.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="ZLPiIxWC0PYq5nNod-Tg" version="17.1.3" type="github">
+  <diagram id="Vd3lbosM9SisEXLFlKM5" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8GdK4eMGvSDdbEEkoVcm-1" value="&lt;h1&gt;OAuth2&lt;/h1&gt;&lt;p&gt;一种授权协议，帮助你让第三方平台代替你到授权平台获取数据的方案设计。&lt;/p&gt;&lt;p style=&quot;font-size: 11px&quot;&gt;四个角色&lt;font color=&quot;#0a0a0a&quot; style=&quot;font-size: 11px&quot;&gt;：&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 11px&quot;&gt;资源拥有者、第三方软件/客户端、授权服务和受保护资源&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8GdK4eMGvSDdbEEkoVcm-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static001.geekbang.org/resource/image/96/32/96973a6f5637fb3d1049f6d456702932.png;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="820.36" height="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
